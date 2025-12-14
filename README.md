@@ -2,7 +2,7 @@
 ## 📌 Project Overview
 
 This project focuses on analyzing online food delivery sales data to understand customer ordering behavior, revenue distribution, discount strategies, and regional food demand patterns.
-The analysis simulates how platforms like Zomato / Swiggy use data to support business decisions such as promotions, market expansion, and demand forecasting.  
+The analysis simulates how online food delivery platforms use data to support business decisions such as promotions, market expansion, and demand forecasting.  
 
 # Objectives
 The key goals of this analysis are:
