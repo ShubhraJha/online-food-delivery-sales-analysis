@@ -14,17 +14,17 @@ The key goals of this analysis are:
   
 ## 📂Dataset Description
 The dataset represents online food delivery transactions with the following key attributes:
-order_id – Unique order identifier
-order_time – Timestamp of order placement
-city – City where the order was placed
-restaurant – Restaurant name
-cuisine – Cuisine type
-dish_name – Dish ordered
-price – Price of the food item
-revenue – Total revenue generated from the order
-discount_percent – Discount applied on the order
-delivery_time_min – Delivery time in minutes
-distance_km – Delivery distance 
+- order_id – Unique order identifier
+- order_time – Timestamp of order placement
+- city – City where the order was placed
+- restaurant – Restaurant name
+- cuisine – Cuisine type
+- dish_name – Dish ordered
+- price – Price of the food item
+- revenue – Total revenue generated from the order
+- discount_percent – Discount applied on the order
+- delivery_time_min – Delivery time in minutes
+- distance_km – Delivery distance 
 
 ## 🛠️ Tools & Technologies Used
 Pandas – Data manipulation and aggregation
