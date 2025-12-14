@@ -27,9 +27,9 @@ The dataset represents online food delivery transactions with the following key 
 - distance_km – Delivery distance 
 
 ## 🛠️ Tools & Technologies Used
-Pandas – Data manipulation and aggregation
-NumPy – Numerical operations
-Matplotlib – Trend and line visualizations
+- Pandas – Data manipulation and aggregation
+- NumPy – Numerical operations
+- Matplotlib – Trend and line visualizations
 
 ## 📊 Key Analyses Performed
 1️⃣ Feature Engineering
