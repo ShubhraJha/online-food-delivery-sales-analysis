@@ -34,20 +34,25 @@ The dataset represents online food delivery transactions with the following key 
 ## Key Analyses Performed
 1️⃣ Feature Engineering
 - Extracted date, month, and weekday from order timestamps for time-based analysis.
+  
 2️⃣ City-Level Analysis
 - Total orders by city
 - Total revenue contribution by each city
+- 
 3️⃣ Restaurant-Level Analysis
 - Order volume per restaurant
 - Revenue contribution per restaurant
 - Average customer ratings
+  
 4️⃣ Cuisine & City Analysis
 - Identified high-demand cuisine–city combinations
 - Compared order volume and revenue across cuisines and regions
+  
 5️⃣ Time-Based Trends
 - Weekday-wise order analysis to detect peak demand days
 - Monthly order trends to identify seasonality
 - Monthly discount trends to understand promotional strategies
+  
 6️⃣ Discount Analysis
 - Average discounts by weekday
 - Monthly discount distribution to detect seasonal promotions
