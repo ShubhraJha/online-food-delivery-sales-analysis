@@ -38,7 +38,7 @@ The dataset represents online food delivery transactions with the following key 
 2️⃣ City-Level Analysis
 - Total orders by city
 - Total revenue contribution by each city
-- 
+  
 3️⃣ Restaurant-Level Analysis
 - Order volume per restaurant
 - Revenue contribution per restaurant
