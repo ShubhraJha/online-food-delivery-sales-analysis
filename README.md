@@ -67,7 +67,7 @@ The dataset represents online food delivery transactions with the following key 
   - Revenue by city
   - Cuisine demand by city
 
-Line plots for:
+- Line plots for:
 
    - Monthly order trends
    - Monthly discount trends
