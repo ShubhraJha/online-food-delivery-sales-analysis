@@ -1,5 +1,5 @@
-## 🍔 Online Food Delivery Sales Analysis
-## 📌 Project Overview
+## Online Food Delivery Sales Analysis
+## Project Overview
 
 This project focuses on analyzing online food delivery sales data to understand customer ordering behavior, revenue distribution, discount strategies, and regional food demand patterns.
 The analysis simulates how online food delivery platforms use data to support business decisions such as promotions, market expansion, and demand forecasting.  
@@ -12,7 +12,7 @@ The key goals of this analysis are:
 - Examine city-wise cuisine demand
 - Provide actionable insights for business and operational planning
   
-## 📂Dataset Description
+## Dataset Description
 The dataset represents online food delivery transactions with the following key attributes:
 - order_id – Unique order identifier
 - order_time – Timestamp of order placement
@@ -31,7 +31,7 @@ The dataset represents online food delivery transactions with the following key 
 - NumPy – Numerical operations
 - Matplotlib – Trend and line visualizations
 
-## 📊 Key Analyses Performed
+## Key Analyses Performed
 1️⃣ Feature Engineering
 - Extracted date, month, and weekday from order timestamps for time-based analysis.
 2️⃣ City-Level Analysis
@@ -40,7 +40,7 @@ The dataset represents online food delivery transactions with the following key 
 3️⃣ Restaurant-Level Analysis
 - Order volume per restaurant
 - Revenue contribution per restaurant
-Average customer ratings
+- Average customer ratings
 4️⃣ Cuisine & City Analysis
 - Identified high-demand cuisine–city combinations
 - Compared order volume and revenue across cuisines and regions
@@ -52,7 +52,7 @@ Average customer ratings
 - Average discounts by weekday
 - Monthly discount distribution to detect seasonal promotions
 
-## 📈 Visualizations Included
+## Visualizations Included
 Bar plots for:
 - Orders by weekday
 - Revenue by city
@@ -62,14 +62,14 @@ Line plots for:
 - Monthly order trends
 - Monthly discount trends
   
-## 🔍 Key Insights
+## Key Insights
 
 - Certain cities consistently generate higher revenue and order volumes
 - Customer demand shows weekday-based patterns, with peak ordering on specific days
 - Discounts remain relatively stable but show seasonal variations
 - Food preferences vary significantly city-wise, highlighting regional taste differences
 
-## 🧠 Business Value
+## Business Value
 
 This analysis helps an online food delivery platform to:
 
